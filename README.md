@@ -60,3 +60,11 @@ For any questions, please contact me:
 - Email: <berroadanny@gmail.com>
 
 For additional questions, please email me at the address provided above.
+
+## Screen Sharing
+
+[screensharing](https://youtu.be/NGaasBEhEUA)
+
+## Deployment
+
+[Deployment](https://daniel639.github.io/Note-Taker/)
