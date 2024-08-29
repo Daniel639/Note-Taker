@@ -18,9 +18,9 @@ To install and run this application locally, follow these steps:
 1. Clone the repository to your local machine:
 2. [Copygit clone https://github.com/your-username/note-taker.git](https://github.com/your-username/note-taker.git)
 3. Navigate to the project directory:
-4. Copycd note-takerInstall the necessary dependencies:
-5. Copynpm installStart the server:
-6. Copynpm startOpen your web browser and visit <http://localhost:3000>
+4. Copy cd note-taker Install the necessary dependencies:
+5. Copy npm install Start the server:
+6. Copy npm start Open your web browser and visit <http://localhost:3000>
 
 ## Usage
 
